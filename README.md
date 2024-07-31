@@ -19,6 +19,9 @@ Made sure to visually clean the dataset using find and replace for blanks or typ
 
 The sheets that I created were data based on:
 
+- Product Overview
+- Sales Data
+- Country Overview
 - Products Purchased Together
 - Credit Limit Grouped
 - Purchased Value Change
