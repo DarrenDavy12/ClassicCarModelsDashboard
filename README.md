@@ -38,18 +38,26 @@ Next was retrieving that dataset from excel and using mySQL to combine, filer an
 - On
 - As
 
-I made a view in mySQL using the dataset. 
+I made a view table in mySQL using the dataset. 
 
-Afterwards I copied the desired table of data I wanted, in need to connect mySQL database and Power BI’s database.
 
 Inside Power BI I copied my connection string from mySQL classic models server port and pasted it into Power BI. 
 
 The connection was successful. 
 
  
-
 Now the view from mySQL is within Power BI, I edited my canvas to start adding components for data visualization. 
 
+
 I wanted the dashboard to show the data on sales and net profit from Customer Name, Product Line and Customer Country. 
+
+Components used in dashboard:
+
+- Scatter Graph
+- Line Chart
+- Donut Chart
+- Decomposition Tree
+- Standard table
+  
 Including a sales overview, average unique orders and count of unique sales while using dynamic pages, buttons and animations within the dashboard.
 
