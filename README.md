@@ -11,9 +11,9 @@ Dashboard on Classic Cars in Power BI
 
 # Overview of project:
 
-Firstly I downloaded the dataset from a classic car model site from the web as a .csv file.
+So I downloaded the dataset from a Data Catalog from the web as a .csv file.
 
-Opened the CSV file in Microsoft Excel then saved it as an .xlsx file because I will use the dataset to create more sheets with excel.
+Opened the CSV file in Microsoft Excel then saved it as an .xlsx file since I will be creating more sheets with excel.
 
 Made sure to visually clean the dataset using find and replace for blanks or typo errors. 
 
