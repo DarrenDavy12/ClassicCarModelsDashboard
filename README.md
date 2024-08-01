@@ -1,5 +1,5 @@
 # Classic Car Models Dashboard
-Dashboard on Classic Cars in Power BI 
+Power BI Dashboard
 
 
 # Tools used for this project was:
