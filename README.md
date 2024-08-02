@@ -11,7 +11,7 @@ Power BI Dashboard
 
 # Overview of project:
 
-So I downloaded the dataset from a Data Catalog from the web as a .csv file.
+So I downloaded the dataset from a site called Data Catalog, as a .csv file.
 
 Opened the CSV file in Microsoft Excel then saved it as an .xlsx file since I will be creating more sheets with excel.
 
