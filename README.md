@@ -29,7 +29,7 @@ The sheets that I created were data based on:
 
 I created a schema within mySQL, noting that this will be relational database. 
 
-Next was retrieving that dataset from excel and using mySQL to combine, filer and sort the data, from there using SQL Commands like:
+Next was retrieving that dataset from excel and using mySQL to combine, filter and sort the data, from there using SQL Commands like:
 
 - Select statement
 - From
